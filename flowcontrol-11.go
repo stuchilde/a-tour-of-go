@@ -19,6 +19,6 @@ func main() {
 	case t.Hour() < 17:
 		fmt.Println("Good afternoon.")
 	default:
-		fmt.Println("Good e12vening.")
+		fmt.Println("Good evening.")
 	}
 }
